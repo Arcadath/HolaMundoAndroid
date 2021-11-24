@@ -26,7 +26,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Suma"
-            android:backgroundco="#E69696"
+            android:background="#E69696"
             android:textColorLink="#E69696" />
 
         <Button
