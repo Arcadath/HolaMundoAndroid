@@ -54,7 +54,7 @@
             android:textColorLink="#E69696" />
 
         <Button
-            android:id="@+id/ButtonPesosDolar"
+            android:id="@+id/ButtonMetrosPies"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Metros a Pies"

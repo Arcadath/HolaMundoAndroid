@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         Button_resta = findViewById(R.id.Button_resta);
         Button_multiplicacion = findViewById(R.id.Button_multiplicacion);
         Button_division = findViewById(R.id.Button_division);
-        ButtonPesosDolar = findViewById(R.id.ButtonPesosDolar);
+        ButtonPesosDolar = findViewById(R.id.ButtonMetrosPies);
 
         Button_suma.setOnClickListener(new View.OnClickListener() {
             @Override
